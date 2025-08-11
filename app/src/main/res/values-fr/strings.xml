@@ -1,0 +1,158 @@
+<resources>
+    <string name="app_name">Resto101</string>
+    
+    <!-- Common -->
+    <string name="ok">OK</string>
+    <string name="cancel">Annuler</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="loading">Chargement...</string>
+    <string name="error">Erreur</string>
+    <string name="retry">Réessayer</string>
+    <string name="search">Rechercher</string>
+    <string name="filter">Filtrer</string>
+    <string name="sort">Trier</string>
+    
+    <!-- Authentication -->
+    <string name="login">Connexion</string>
+    <string name="sign_up">S\'inscrire</string>
+    <string name="email">Email</string>
+    <string name="password">Mot de passe</string>
+    <string name="confirm_password">Confirmer le mot de passe</string>
+    <string name="forgot_password">Mot de passe oublié ?</string>
+    <string name="name">Nom</string>
+    <string name="phone_number">Numéro de téléphone</string>
+    <string name="already_have_account">Vous avez déjà un compte ?</string>
+    <string name="dont_have_account">Vous n\'avez pas de compte ?</string>
+    <string name="create_account">Créer un compte</string>
+    <string name="send_reset_link">Envoyer le lien de réinitialisation</string>
+    <string name="reset_link_sent">Lien de réinitialisation envoyé à votre email</string>
+    <string name="back_to_login">Retour à la connexion</string>
+    
+    <!-- Home -->
+    <string name="good_morning">Bonjour</string>
+    <string name="good_afternoon">Bon après-midi</string>
+    <string name="good_evening">Bonsoir</string>
+    <string name="what_would_you_like_to_eat">Que souhaitez-vous manger aujourd\'hui ?</string>
+    <string name="search_meals">Rechercher des plats...</string>
+    <string name="categories">Catégories</string>
+    <string name="featured_meals">Plats vedettes</string>
+    <string name="popular_meals">Plats populaires</string>
+    <string name="see_all">Voir tout</string>
+    <string name="special_offers">Offres spéciales</string>
+    
+    <!-- Menu -->
+    <string name="menu">Menu</string>
+    <string name="sort_by">Trier par</string>
+    <string name="price_low_to_high">Prix : Croissant</string>
+    <string name="price_high_to_low">Prix : Décroissant</string>
+    <string name="rating">Note</string>
+    <string name="popularity">Popularité</string>
+    <string name="preparation_time">Temps de préparation</string>
+    <string name="filter_by">Filtrer par</string>
+    <string name="all_meals">Tous les plats</string>
+    <string name="vegetarian">Végétarien</string>
+    <string name="vegan">Végétalien</string>
+    <string name="gluten_free">Sans gluten</string>
+    <string name="no_meals_found">Aucun plat trouvé</string>
+    <string name="try_different_search">Essayez une recherche ou un filtre différent</string>
+    
+    <!-- Meal Detail -->
+    <string name="add_to_cart">Ajouter au panier</string>
+    <string name="ingredients">Ingrédients</string>
+    <string name="nutrition_info">Informations nutritionnelles</string>
+    <string name="calories">Calories</string>
+    <string name="protein">Protéines</string>
+    <string name="carbs">Glucides</string>
+    <string name="fat">Lipides</string>
+    <string name="allergens">Allergènes</string>
+    <string name="preparation_time_minutes">%d min</string>
+    <string name="reviews">%d avis</string>
+    
+    <!-- Cart -->
+    <string name="cart">Panier</string>
+    <string name="your_cart">Votre panier</string>
+    <string name="cart_empty">Votre panier est vide</string>
+    <string name="start_shopping">Commencer les achats</string>
+    <string name="clear_all">Tout effacer</string>
+    <string name="special_instructions">Instructions spéciales</string>
+    <string name="order_summary">Résumé de la commande</string>
+    <string name="subtotal">Sous-total</string>
+    <string name="delivery_fee">Frais de livraison</string>
+    <string name="tax">Taxe</string>
+    <string name="total">Total</string>
+    <string name="proceed_to_checkout">Procéder au paiement</string>
+    <string name="continue_shopping">Continuer les achats</string>
+    
+    <!-- Checkout -->
+    <string name="checkout">Paiement</string>
+    <string name="delivery_information">Informations de livraison</string>
+    <string name="address">Adresse</string>
+    <string name="city">Ville</string>
+    <string name="zip_code">Code postal</string>
+    <string name="payment_method">Méthode de paiement</string>
+    <string name="credit_card">Carte de crédit</string>
+    <string name="debit_card">Carte de débit</string>
+    <string name="paypal">PayPal</string>
+    <string name="apple_pay">Apple Pay</string>
+    <string name="cash_on_delivery">Paiement à la livraison</string>
+    <string name="place_order">Passer la commande</string>
+    
+    <!-- Order Confirmation -->
+    <string name="order_confirmed">Commande confirmée !</string>
+    <string name="thank_you_order">Merci pour votre commande</string>
+    <string name="order_details">Détails de la commande</string>
+    <string name="order_id">ID de commande</string>
+    <string name="order_date">Date de commande</string>
+    <string name="order_status">Statut</string>
+    <string name="estimated_delivery">Livraison estimée</string>
+    <string name="delivery_address">Adresse de livraison</string>
+    <string name="track_order">Suivre la commande</string>
+    <string name="back_to_home">Retour à l\'accueil</string>
+    
+    <!-- Order History -->
+    <string name="order_history">Historique des commandes</string>
+    <string name="no_orders">Aucune commande encore</string>
+    <string name="view_details">Voir les détails</string>
+    <string name="reorder">Recommander</string>
+    <string name="items">%d articles</string>
+    
+    <!-- Profile -->
+    <string name="profile">Profil</string>
+    <string name="account">Compte</string>
+    <string name="edit_profile">Modifier le profil</string>
+    <string name="delivery_addresses">Adresses de livraison</string>
+    <string name="payment_methods">Méthodes de paiement</string>
+    <string name="preferences">Préférences</string>
+    <string name="language">Langue</string>
+    <string name="theme">Thème</string>
+    <string name="notifications">Notifications</string>
+    <string name="support">Support</string>
+    <string name="help_center">Centre d\'aide</string>
+    <string name="send_feedback">Envoyer des commentaires</string>
+    <string name="about">À propos</string>
+    <string name="logout">Déconnexion</string>
+    <string name="logout_confirmation">Êtes-vous sûr de vouloir vous déconnecter ?</string>
+    <string name="select_language">Sélectionner la langue</string>
+    <string name="english">English</string>
+    <string name="french">Français</string>
+    
+    <!-- Order Status -->
+    <string name="pending">En attente</string>
+    <string name="confirmed">Confirmée</string>
+    <string name="preparing">En préparation</string>
+    <string name="out_for_delivery">En livraison</string>
+    <string name="delivered">Livrée</string>
+    <string name="cancelled">Annulée</string>
+    
+    <!-- Bottom Navigation -->
+    <string name="home">Accueil</string>
+    <string name="orders">Commandes</string>
+    
+    <!-- Validation Messages -->
+    <string name="field_required">Ce champ est requis</string>
+    <string name="invalid_email">Veuillez entrer un email valide</string>
+    <string name="password_too_short">Le mot de passe doit contenir au moins 6 caractères</string>
+    <string name="passwords_dont_match">Les mots de passe ne correspondent pas</string>
+    <string name="invalid_phone">Veuillez entrer un numéro de téléphone valide</string>
+</resources>
